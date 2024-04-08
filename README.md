@@ -1,0 +1,1 @@
+The Weather Checking Application is a command-line tool developed in Python that allows users to check the current weather conditions for a specific city, manage a list of favorite cities, and perform CRUD (Create, Read, Update, Delete) operations on the list of favorite cities.
